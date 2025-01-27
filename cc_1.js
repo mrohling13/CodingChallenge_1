@@ -39,3 +39,12 @@ accountBalance /= 2;
 console.log(accountBalance) // 1575
 
 
+// Task 4: String Data Type // 
+let customerName = "Saquon Barkley";
+
+let welcomeMessage = 'Welcome back' + customerName
+
+console.log(welcomeMessage); // Welcome back Saquon Barkley
+
+
+
