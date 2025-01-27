@@ -46,5 +46,14 @@ let welcomeMessage = 'Welcome back' + customerName
 
 console.log(welcomeMessage); // Welcome back Saquon Barkley
 
+// Task 5: String Data Type //
+let isLoggedIn =true
+let hasAccess = isLoggedIn && true;
+
+if (hasAccess) {
+    console.log("Access has been granted.")
+} else {
+    console.log("Access has been denied.");
+}
 
 
