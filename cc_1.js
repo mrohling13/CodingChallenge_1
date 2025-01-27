@@ -18,8 +18,10 @@ var isAvailable = true;
 
 console.log(productName); // HMDD Hoodie
 console.log(typeof productName); // string
-console.log(productprice); // 160.00
+console.log(productPrice); // 160.00
 console.log(typeof productPrice); // number
 console.log(isAvailable); // true
 console.log(typeof isAvailable); // boolean
+
+
 
