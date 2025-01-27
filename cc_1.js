@@ -23,5 +23,19 @@ console.log(typeof productPrice); // number
 console.log(isAvailable); // true
 console.log(typeof isAvailable); // boolean
 
+// Task 3: Number Data Type //
+let accountBalance = 3000;
+
+accountBalance += 500;
+console.log(accountBalance); // 3500
+
+accountBalance -= 500;
+console.log(accountBalance); // 3000
+
+accountBalance *= 1.05;
+console.log(accountBalance); // 3150
+
+accountBalance /= 2;
+console.log(accountBalance) // 1575
 
 
